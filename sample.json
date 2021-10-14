@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 76.5785,
+        "lat": 30.8315
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 303.98,
+        "feels_like": 303.99,
+        "temp_min": 303.98,
+        "temp_max": 303.98,
+        "pressure": 1005,
+        "humidity": 41,
+        "sea_level": 1005,
+        "grnd_level": 972
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.45,
+        "deg": 337,
+        "gust": 5.58
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1633518775,
+    "sys": {
+        "type": 2,
+        "id": 2036316,
+        "country": "IN",
+        "sunrise": 1633481404,
+        "sunset": 1633523602
+    },
+    "timezone": 19800,
+    "id": 1257951,
+    "name": "Kurali",
+    "cod": 200
+}
